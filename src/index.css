@@ -60,6 +60,9 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .container_upload {
+    height: 83vh;
+  }
   .container_url {
     width: 95%;
     word-wrap: break-word;
